@@ -91,7 +91,6 @@ Isso combina:
 ---
 
 # 2. Repository
-
 Eu usaria bastante.
 
 Por exemplo:
