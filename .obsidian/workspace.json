@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Compreensão de Código/Análise por Diff.md",
+                "file": "Software Engineering/Compreensão de Código/Checklist de Compreensão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análise por Diff"
+              "title": "Checklist de Compreensão"
             }
           }
         ],
@@ -233,6 +233,17 @@
   },
   "active": "caabc382cd855a1d",
   "lastOpenFiles": [
+    "Software Engineering/Agents/Estrutura de Diretórios de um Agent Harness.md",
+    "Agents e desenvolvimento com IA",
+    "Software Engineering/Compreensão de Código/Teach Me This Change.md",
+    "Software Engineering/Compreensão de Código/Fluxo de Execução.md",
+    "Software Engineering/Compreensão de Código/Fluxo de Dados.md",
+    "Software Engineering/Compreensão de Código/Developer Comprehension.md",
+    "Software Engineering/Compreensão de Código/Complexity Radar.md",
+    "Software Engineering/Compreensão de Código/Como Entender Código Gerado por IA.md",
+    "Software Engineering/Compreensão de Código/Checklist de Compreensão.md",
+    "Software Engineering/Compreensão de Código/Code Understanding Layer.md",
+    "Software Engineering/Compreensão de Código/Análise por Diff.md",
     "Software Engineering/Templates/Template - Decisão Arquitetural.md",
     "Software Engineering/Templates/Template - Fluxo.md",
     "Software Engineering/Templates/Template - Conceito.md",
@@ -249,16 +260,6 @@
     "Software Engineering/Arquitetura/ADR.md",
     "Software Engineering/Arquitetura/Decisões Arquiteturais.md",
     "Software Engineering/Arquitetura/Dependências entre Camadas.md",
-    "Software Engineering/Arquitetura/Architecture Overview.md",
-    "Software Engineering/Agents/Human in the Loop.md",
-    "Software Engineering/Agents/Coder Agent.md",
-    "Software Engineering/Agents/Architect Agent.md",
-    "Software Engineering/Agents/Reviewer Agent.md",
-    "Software Engineering/Agents/Explainer Agent.md",
-    "Software Engineering/Agents/Cadeia de Agents.md",
-    "Software Engineering/Agents/Código Gerado por Agents.md",
-    "Software Engineering/00 - Índices/MOC - Arquitetura.md",
-    "Software Engineering/Compreensão de Código/Checklist de Compreensão.md",
     "Software Engineering/Templates",
     "Software Engineering/Práticas",
     "Software Engineering/Conceitos",
@@ -267,7 +268,6 @@
     "Software Engineering/Agents",
     "Software Engineering/00 - Índices",
     "Software Engineering",
-    "Padrões de Projeto",
-    "Conceitos Complementares"
+    "Padrões de Projeto"
   ]
 }
